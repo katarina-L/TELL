@@ -9,7 +9,7 @@ Thank you for participating in this study! My name is Katarina Laken. I am a stu
 
 
 The experiment will consist of two parts:
-1) The experiment. You will use the application 'ZINNEN BOUWEN' ('building sentences') that was created for this research. It consists of a small file that should be easy to execute on any operating system. The program will create a log file containing your entries in the program and the feedback of the system; I will ask you to send this log file to the researcher. After the experiment you can delete the program from your computer.
+1) The experiment. You will use the application 'ZINNEN BOUWEN' ('building sentences') that was created for this research. The program will create a log file containing your entries in the program and the feedback of the system; I will ask you to send this log file to the researcher. After the experiment you can delete the program from your computer.
 2) A post-test survey in which I will ask you about your experiences and thoughts on the application 'ZINNEN BOUWEN'.
 
 
